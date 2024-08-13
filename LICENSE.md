@@ -1,1 +1,1 @@
-THis is just so i can start doing stuff
+Please don't steal my code without giving credits :)
