@@ -1,3 +1,5 @@
+Here is the source code
+
 @echo off
 
 color 9
